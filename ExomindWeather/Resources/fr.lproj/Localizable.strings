@@ -1,0 +1,9 @@
+"HOME_WELCOME" = "Bienvenue sur l'application météo pour Exomind";
+"HOME_WELCOME_BUTTON" = "Aller sur la vue météo";
+"ERROR" = "Une erreur est survenue";
+"RETRY" = "Réessayer";
+"RESTART" = "Recommencer";
+"HUMIDITY" = "Humidité";
+"LOADING_MESSAGE_1" = "Nous téléchargeons les données...";
+"LOADING_MESSAGE_2" = "C’est presque fini...";
+"LOADING_MESSAGE_3" = "Plus que quelques secondes avant d’avoir le résultat...";
